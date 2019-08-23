@@ -1,3 +1,4 @@
+package ARP;
 
 public class Student extends Person implements ServiceS, Seminar {
 
